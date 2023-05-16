@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Husam-Zanh
-- 👀 I’m interested in ... design . music , reading
-- 🌱 I’m currently learning ... web design and Computer science degree
-- 💞️ I’m looking to collaborate on ... business
+- 👀 I’m interested in ... Mobile Application
+- 🌱 I’m currently learning ... Mobile Application development
+- 💞️ I’m looking to collaborate on ... Great Projects
 - 📫 How to reach me ... 0569683719
 -  
 
