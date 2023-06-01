@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Husam-Zanh
-- 👀 I’m interested in ... Mobile Application
-- 🌱 I’m currently learning ... Mobile Application development
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ... BackEnd development
 - 💞️ I’m looking to collaborate on ... Great Projects
 - 📫 How to reach me ... 0569683719
 -  
